@@ -24,9 +24,19 @@ Run the program.
 Print the values and end the program.
 
 ## PROGRAM:
+## PROGRAM TO COUNT THE NUMBER OF WORDS
+## DEVELOPED BY : MATHAN RAJ E
+## REFERENCE NO : 22008971
+num_words=0
+with open('a.txt','r') as file1:
+    for i in file1:
+        word=i.split()
+        num_words+=len(word)
+print("Number of words= ",num_words)
 
 ### OUTPUT:
 
+![image](https://user-images.githubusercontent.com/119560501/214905044-e25cd6fa-21a7-45a5-94b2-88b88afea177.png)
 
 
 ## RESULT:
