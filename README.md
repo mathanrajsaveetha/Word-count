@@ -36,10 +36,11 @@ print("Number of words= ",num_words)
 ```
 ### OUTPUT:
 
-![image](https://user-images.githubusercontent.com/119560501/214905044-e25cd6fa-21a7-45a5-94b2-88b88afea177.png)
+![Screenshot_20230126_105110](https://user-images.githubusercontent.com/119560501/214907577-1621afb3-54a5-485d-878a-edc6813abd94.png)
 
 ### TEXT FILE:
-![Screenshot_20230126_105110](https://user-images.githubusercontent.com/119560501/214907070-0315fbd6-3835-4df0-9508-7ee8d0260cbb.png)
+
+![text file](https://user-images.githubusercontent.com/119560501/214907692-fee0ba6a-5fc8-4a5c-8ae4-6b49eda6f057.png)
 
 
 
