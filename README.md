@@ -22,7 +22,7 @@ Run the program.
 
 ### Step 6:
 Print the values and end the program.
-
+```
 ## PROGRAM:
 ## PROGRAM TO COUNT THE NUMBER OF WORDS
 ## DEVELOPED BY : MATHAN RAJ E
@@ -33,7 +33,7 @@ with open('a.txt','r') as file1:
         word=i.split()
         num_words+=len(word)
 print("Number of words= ",num_words)
-
+```
 ### OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/119560501/214905044-e25cd6fa-21a7-45a5-94b2-88b88afea177.png)
